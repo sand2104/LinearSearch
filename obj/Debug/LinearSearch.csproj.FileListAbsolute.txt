@@ -1,0 +1,8 @@
+C:\data\LinearSearch\LinearSearch\bin\Debug\LinearSearch.exe.config
+C:\data\LinearSearch\LinearSearch\bin\Debug\LinearSearch.exe
+C:\data\LinearSearch\LinearSearch\bin\Debug\LinearSearch.pdb
+C:\data\LinearSearch\LinearSearch\obj\Debug\LinearSearch.csproj.AssemblyReference.cache
+C:\data\LinearSearch\LinearSearch\obj\Debug\LinearSearch.csproj.SuggestedBindingRedirects.cache
+C:\data\LinearSearch\LinearSearch\obj\Debug\LinearSearch.csproj.CoreCompileInputs.cache
+C:\data\LinearSearch\LinearSearch\obj\Debug\LinearSearch.exe
+C:\data\LinearSearch\LinearSearch\obj\Debug\LinearSearch.pdb
